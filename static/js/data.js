@@ -23,7 +23,7 @@ var keyData = {
 		}),
 		color: '#9b59b6'
 	},
-		t: {
+	t: {
 		sound: new Howl({
   		urls: ['static/sounds/dotted-spiral.mp3']
 		}),
